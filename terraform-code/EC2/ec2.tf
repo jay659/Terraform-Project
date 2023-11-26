@@ -9,7 +9,7 @@ resource "aws_instance" "main" {
   instance_type          = "t2.micro"
   key_name               = "arlink"
   subnet_id              = aws_subnet.subnet1.id
-  vpc_security_group_ids = [aws_security_group.main.id]
+  vpc_security_group_ids = [aws_security_group.my_security_group.id]
 
   user_data = <<-EOF
               #!/bin/bash
