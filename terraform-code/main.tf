@@ -11,9 +11,9 @@ module "rds_module" {
 
   depends_on = [module.vpc_module]
 
-  vpc_id                  = module.vpc_module.vpc_id
-  vpc_private_subnet_1_id = module.vpc_module.vpc_private_subnet_1_id
-  vpc_private_subnet_2_id = module.vpc_module.vpc_private_subnet_2_id
+  vpc_id                 = module.vpc_module.vpc_id
+  vpc_public_subnet_1_id = module.vpc_module.vpc_public_subnet_1_id
+  vpc_public_subnet_2_id = module.vpc_module.vpc_public_subnet_2_id
 }
 
 module "ec2_module" {

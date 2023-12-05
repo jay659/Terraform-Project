@@ -4,6 +4,8 @@ include('components/header.php');
 
 include('components/db_handler.php');
 
+$message = '';
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_POST["name"];
     $email = $_POST["email"];
@@ -11,7 +13,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $phoneNumber = $_POST["phone_number"];
     $message = $_POST["message"];
 
-    handleFormData($name, $email, $serviceType, $phoneNumber, $message);
+   if (handleFormData($name, $email, $serviceType, $phoneNumber, $messageBody)) {
+      $message = "Thank you for your message! We will be in touch.";
+   } else {
+      $message = "Oops! Something went wrong. Please try again.";
+   }
 }
 ?>
 
@@ -165,7 +171,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         </div>
                      </div>
                   </form>
-                  <p class="ajax-response"></p>
+                  <p class="ajax-response"><?php echo $message; ?></p>
                </div>
             </div>
          </div>
@@ -174,7 +180,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
    <!-- contact breadcrumb end -->
 
 
-
 </main>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var messageElement = document.querySelector(".ajax-response");
+    if (messageElement.innerHTML.trim() !== "") {
+        messageElement.scrollIntoView({ behavior: 'smooth' });
+    }
+});
+</script>
 
 <?php include('components/footer.php'); ?>

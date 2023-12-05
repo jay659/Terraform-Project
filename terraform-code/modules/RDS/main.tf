@@ -1,6 +1,6 @@
 resource "aws_db_subnet_group" "db_subnet_group" {
   name       = "database-subnet-group"
-  subnet_ids = [var.vpc_private_subnet_1_id, var.vpc_private_subnet_2_id]
+  subnet_ids = [var.vpc_public_subnet_1_id, var.vpc_public_subnet_2_id]
   tags = {
     Name = "Database subnet group"
   }
@@ -16,7 +16,7 @@ resource "aws_db_instance" "main" {
   instance_class         = var.db_size
   username               = var.db_username
   password               = var.db_password
-  publicly_accessible    = false
+  publicly_accessible    = true
   depends_on             = [aws_security_group.db_security_group]
   vpc_security_group_ids = [aws_security_group.db_security_group.id]
   db_subnet_group_name   = aws_db_subnet_group.db_subnet_group.name
@@ -46,5 +46,20 @@ resource "aws_security_group" "db_security_group" {
 
   tags = {
     Name = "db_security_group"
+  }
+}
+
+
+resource "null_resource" "create_table" {
+  depends_on = [aws_db_instance.main]
+
+  provisioner "local-exec" {
+    command = <<-EOT
+      sleep 120
+  
+      mysql -h ${aws_db_instance.main.endpoint} -u ${var.db_username} -p${var.db_username} -e "CREATE DATABASE IF NOT EXISTS technix;"
+      
+      mysql -h ${aws_db_instance.main.endpoint} -u ${var.db_username} -p${var.db_username} -e "USE technix; CREATE TABLE IF NOT EXISTS contacts (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(255), email VARCHAR(255), service_type VARCHAR(255), phone_number VARCHAR(20), message TEXT);"
+    EOT
   }
 }

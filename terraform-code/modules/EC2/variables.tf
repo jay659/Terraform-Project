@@ -11,7 +11,7 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  default = "EC2_instance"
+  default = "Project-Application-Server"
 }
 
 variable "vpc_id" {

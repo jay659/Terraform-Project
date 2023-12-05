@@ -36,9 +36,9 @@ function handleFormData($name, $email, $serviceType, $phoneNumber, $message)
             VALUES ('$name', '$email', '$serviceType', '$phoneNumber', '$message')";
 
     if ($conn->query($sql) === TRUE) {
-        echo "New record created successfully";
+        return true;
     } else {
-        echo "Error: " . $sql . "<br>" . $conn->error;
+        return false;
     }
 
     // Close the database connection
