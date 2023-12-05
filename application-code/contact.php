@@ -1,5 +1,19 @@
-<?php include('components/header.php'); ?>
+<?php 
 
+include('components/header.php');
+
+include('components/db_handler.php');
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $name = $_POST["name"];
+    $email = $_POST["email"];
+    $serviceType = $_POST["service_type"]; 
+    $phoneNumber = $_POST["phone_number"];
+    $message = $_POST["message"];
+
+    handleFormData($name, $email, $serviceType, $phoneNumber, $message);
+}
+?>
 
 <main>
 
@@ -133,12 +147,12 @@
                         </div>
                         <div class="col-md-6">
                            <div class="tp-contact-input">
-                              <input name="text" type="text" placeholder="Service Type">
+                              <input name="service_type" type="text" placeholder="Service Type">
                            </div>
                         </div>
                         <div class="col-md-6">
                            <div class="tp-contact-input">
-                              <input name="text" type="text" placeholder="Phone Number">
+                              <input name="phone" type="text" placeholder="Phone Number">
                            </div>
                         </div>
                         <div class="col-md-12">

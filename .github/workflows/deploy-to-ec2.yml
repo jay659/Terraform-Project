@@ -15,13 +15,26 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Deploy to Server 1
+      - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:
           SSH_PRIVATE_KEY: ${{ secrets.EC2_SSH_KEY }}
           REMOTE_HOST: ${{ secrets.HOST_DNS }}
           REMOTE_USER: ${{ secrets.USERNAME }}
           TARGET: ${{ secrets.TARGET_DIR }}
+      
+      - name: Update RDS secrets on EC2
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST_DNS }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          script: |
+            echo "export RDS_USERNAME=${{ secrets.RDS_USERNAME }}" | sudo tee -a /etc/apache2/envvars
+            echo "export RDS_PASSWORD=${{ secrets.RDS_PASSWORD }}" | sudo tee -a /etc/apache2/envvars
+            echo "export RDS_ENDPOINT=${{ secrets.RDS_ENDPOINT }}" | sudo tee -a /etc/apache2/envvars
+            echo "export RDS_DATABASE=${{ secrets.RDS_DATABASE }}" | sudo tee -a /etc/apache2/envvars
+
 
       - name: Executing remote ssh commands using ssh key
         uses: appleboy/ssh-action@master
@@ -30,6 +43,9 @@ jobs:
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.EC2_SSH_KEY }}
           script: |
+            if [ -f /var/www/html/index.html ]; then
             sudo rm -rf /var/www/html/index.html
+            fi
             sudo mv application-code/* /var/www/html
             sudo chown -R www-data:www-data /var/www/html
+            sudo service apache2 restart
