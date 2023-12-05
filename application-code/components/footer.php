@@ -74,7 +74,6 @@
 <script src="assets/js/imagesloaded-pkgd.js"></script>
 <script src="assets/js/jquery-appear.js"></script>
 <script src="assets/js/jquery-knob.js"></script>
-<script src="assets/js/ajax-form.js"></script>
 <script src="assets/js/main.js"></script>
 </body>
 

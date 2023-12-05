@@ -14,9 +14,49 @@ function validateFormData($data)
     return $data;
 }
 
+function setupDatabase()
+{
+    global $endpoint, $username, $password, $database;
+
+    // Connect to MySQL server
+    $conn = new mysqli($endpoint, $username, $password);
+
+    // Check connection
+    if ($conn->connect_error) {
+        die("Connection failed: " . $conn->connect_error);
+    }
+
+    // Create database if not exists
+    $createDbSql = "CREATE DATABASE IF NOT EXISTS technix";
+    if ($conn->query($createDbSql) !== TRUE) {
+        die("Error creating database: " . $conn->error);
+    }
+
+    // Use the created database
+    $conn->select_db($database);
+
+    // Create table if not exists
+    $createTableSql = "CREATE TABLE IF NOT EXISTS contacts (
+        id INT AUTO_INCREMENT PRIMARY KEY,
+        name VARCHAR(255),
+        email VARCHAR(255),
+        service_type VARCHAR(255),
+        phone_number VARCHAR(20),
+        message TEXT
+    )";
+
+    if ($conn->query($createTableSql) !== TRUE) {
+        die("Error creating table: " . $conn->error);
+    }
+
+    // Close the database connection
+    $conn->close();
+}
 
 function handleFormData($name, $email, $serviceType, $phoneNumber, $message)
 {
+    global $endpoint, $username, $password, $database;
+    
     // Connect to your MySQL RDS database
     $conn = new mysqli($endpoint, $username, $password, $database);
 
@@ -32,7 +72,7 @@ function handleFormData($name, $email, $serviceType, $phoneNumber, $message)
     $message = validateFormData($message);
 
     // SQL query to insert data into the database
-    $sql = "INSERT INTO your_table_name (name, email, service_type, phone_number, message) 
+    $sql = "INSERT INTO contacts (name, email, service_type, phone_number, message) 
             VALUES ('$name', '$email', '$serviceType', '$phoneNumber', '$message')";
 
     if ($conn->query($sql) === TRUE) {
@@ -44,4 +84,7 @@ function handleFormData($name, $email, $serviceType, $phoneNumber, $message)
     // Close the database connection
     $conn->close();
 }
+
+// Call the setupDatabase function to ensure the database and table exist
+setupDatabase()
 ?>

@@ -10,8 +10,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_POST["name"];
     $email = $_POST["email"];
     $serviceType = $_POST["service_type"]; 
-    $phoneNumber = $_POST["phone_number"];
-    $message = $_POST["message"];
+    $phoneNumber = $_POST["phone"];
+    $messageBody = $_POST["messageBody"];
 
    if (handleFormData($name, $email, $serviceType, $phoneNumber, $messageBody)) {
       $message = "Thank you for your message! We will be in touch.";
@@ -139,7 +139,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                <div class="tp-contact-form">
                   <h3 class="tp-contact-form-title">Contact Us</h3>
                   <p>Your email address will not be published. Required fields <br> are marked *</p>
-                  <form id="contact-form" action="assets/mail.php" method="POST">
+                  <form id="contact-form" action="contact.php" autocomplete="on" method="POST">
                      <div class="row tp-gx-10">
                         <div class="col-md-6">
                            <div class="tp-contact-input">
@@ -163,7 +163,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         </div>
                         <div class="col-md-12">
                            <div class="tp-contact-input">
-                              <textarea name="message" placeholder="Enter Your Message here"></textarea>
+                              <textarea name="messageBody" placeholder="Enter Your Message here"></textarea>
                            </div>
                         </div>
                         <div class="tp-contact-btn mt-10">
