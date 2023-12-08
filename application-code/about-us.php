@@ -52,11 +52,12 @@
                               fill="currentColor"></path>
                         </svg>
                      </span>
-                     <h3 class="tp-section-title">Best Digital <span class="title-color">Technology</span> <br> Agency
+                     <h3 class="tp-section-title">Best Cloud <span class="title-color">Technology</span> <br> Agency
                         For People</h3>
                   </div>
-                  <p class="text">Transmax is the world’s driving worldwide coordinations supplier — we <br> uphold
-                     industry and exchange the worldwide trade of merchandise <br> through land transport.</p>
+                  <p class="text">Elevate your digital journey with us — your trusted partner and the best cloud technology agency for people.
+                     Experience cutting-edge solutions tailored to your needs
+                     defining a new era of innovation and efficiency.</p>
                   <div class="tp-about-progressbar-inner d-flex flex-wrap pt-20">
                      <div class="tp-about-3-progressbar d-flex align-items-center">
                         <div class="circular tl-progress">
@@ -65,7 +66,7 @@
                               data-readonly="true" disabled />
                         </div>
                         <div class="tp-about-3-progressbar-title">
-                           <p>Business <br> Strategy Growth</p>
+                           <p>Cloud <br> Strategy Growth</p>
                         </div>
                      </div>
                      <div class="tp-about-3-progressbar d-flex align-items-center">
@@ -75,7 +76,7 @@
                               data-readonly="true" disabled />
                         </div>
                         <div class="tp-about-3-progressbar-title">
-                           <p>Health Valuable <br> Ideas</p>
+                           <p>Hybrid Valuable <br> Ideas</p>
                         </div>
                      </div>
                   </div>
@@ -164,7 +165,7 @@
                            fill="currentColor"></path>
                      </svg>
                   </span>
-                  <h3 class="tp-section-title">We’ve Been Stay <span class="title-color">38 years</span>
+                  <h3 class="tp-section-title">We’ve Been Stay <span class="title-color">15 years</span>
                      <span class="title-left-shape">
                         <svg width="194" height="5" viewBox="0 0 194 5" fill="none" xmlns="http://www.w3.org/2000/svg">
                            <path
@@ -206,7 +207,7 @@
                                  </svg>
                               </span>
                            </h3>
-                           <p>As far as we might be concerned <br> making an extraordinary ad</p>
+                           <p>Empowering Success Through <br> Innovative Cloud Solutions</p>
                         </div>
                      </div>
                   </div>
@@ -238,7 +239,7 @@
                                  </svg>
                               </span>
                            </h3>
-                           <p>As far as we might be concerned <br> making an extraordinary ad</p>
+                           <p>Evolving Since , <br> Pioneering Tech Excellence</p>
                         </div>
                      </div>
                   </div>
@@ -270,7 +271,7 @@
                                  </svg>
                               </span>
                            </h3>
-                           <p>As far as we might be concerned <br> making an extraordinary ad</p>
+                           <p>Building Excellence Through <br> Strategic Alliances</p>
                         </div>
                      </div>
                   </div>
@@ -299,7 +300,7 @@
                            fill="currentColor"></path>
                      </svg>
                   </span>
-                  <h3 class="tp-section-title">We’ve been stay <span class="title-color">38 years</span>
+                  <h3 class="tp-section-title">Technix been stay <span class="title-color">15 years</span>
                      <span class="title-left-shape">
                         <svg width="194" height="5" viewBox="0 0 194 5" fill="none" xmlns="http://www.w3.org/2000/svg">
                            <path
@@ -308,29 +309,29 @@
                         </svg>
                      </span>
                   </h3>
-                  <p>Our company provides a full range of services for the <br> construction of private houses and
-                     cottages since 19</p>
+                  <p>Empowering Progress in the Cloud: Unleashing Innovative Solutions Since 2008. Elevate your business with our comprehensive range of cloud services. 
+                           Welcome to a future where your digital aspirations take flight</p>
                   <ul class="mb-65">
                      <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none"
                               xmlns="http://www.w3.org/2000/svg">
                               <path
                                  d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z"
                                  fill="currentColor"></path>
-                           </svg></span>series of manual and semi-manual activities.
+                           </svg></span>Advanced Cloud Solutions.
                      </li>
                      <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none"
                               xmlns="http://www.w3.org/2000/svg">
                               <path
                                  d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z"
                                  fill="currentColor"></path>
-                           </svg></span>Construction is different from other industries.
+                           </svg></span>Dynamic Computing Services.
                      </li>
                      <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none"
                               xmlns="http://www.w3.org/2000/svg">
                               <path
                                  d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z"
                                  fill="currentColor"></path>
-                           </svg></span>Construction is different from other industries.
+                           </svg></span>Intelligent Data Management
                      </li>
                   </ul>
                   <div class="tp-support-breadcrumb-btn mb-30">

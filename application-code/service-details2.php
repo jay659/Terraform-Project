@@ -9,7 +9,7 @@
                <div class="row justify-content-center">
                   <div class="col-xl-10">
                      <div class="breadcrumb__content text-center">
-                        <h3 class="breadcrumb__title">Machine Learning
+                        <h3 class="breadcrumb__title">Cloude object Storage
                            <img src="assets/img/breadcrumb/titile.svg" alt="">
                         </h3>
                         <div class="breadcrumb__list breadcrumb__list-translate">
@@ -88,7 +88,7 @@
                   <div class="col-lg-8">
                      <div class="tp-service-details-wrapper">
                         <div class="tp-service-details-thumb">
-                           <img src="assets/img/services/service-details/img-1.jpg" alt="">
+                           <img src="assets/img/services/service-details/img-3.jpg" alt="">
                         </div>
                         <h3 class="tp-service-details-title">Cloud object Storage</h3>
                         <p>Experience a new dimension of data management with Cloud Object Storage. Your files, big or small, find a secure home in our cloud environment. 
@@ -99,25 +99,24 @@
                               <div class="tp-service-details-thumb p-relative">
                                  <img src="assets/img/services/service-details/img-2.jpg" alt="">
                                  <div class="tp-video-play text-center">
-                                    <a class="popup-video effect-1 effect-2" href="https://www.youtube.com/watch?v=hQIfjJbIy6o&amp;ab_channel=GaanBanglaTV"><i class="fa-sharp fa-solid fa-play"></i></a>
+                                    <a class="popup-video effect-1 effect-2" href="https://www.youtube.com/watch?v=J8ni6PjoIEw"><i class="fa-sharp fa-solid fa-play"></i></a>
                                  </div>
                               </div>
                            </div>
                            <div class="col-lg-6">
                               <div class="tp-service-details-list">
                                  <h3 class="tp-service-details-title">Why Choose Cloud Object Storage for Your Data?</h3>
-                                 <p>Lorem ipsum dolor sit amet, consectetur adipisici
-                                 sed do eiusmod tempor incididunt ut labore et </p>
+                                 <p>Cloud object storage offers numerous advantages for managing and storing your data efficiently. Consider the following: </p>
                                  <ul>
                                     <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none" xmlns="http://www.w3.org/2000/svg">
                                        <path d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z" fill="currentColor"></path>
-                                    </svg></span>Access and share files with ease</li>
+                                    </svg></span>Easily scale your storage needs as your data grows</li>
                                     <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none" xmlns="http://www.w3.org/2000/svg">
                                           <path d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z" fill="currentColor"></path>
-                                    </svg></span>Research beyond the business plan</li>
+                                    </svg></span>Enjoy high levels of data durability and availability</li>
                                     <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none" xmlns="http://www.w3.org/2000/svg">
                                              <path d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z" fill="currentColor"></path>
-                                    </svg></span>The ability to turnaround consulting</li>
+                                    </svg></span>Pay only for the storage you use, reducing overall costs</li>
                                  </ul>
                               </div>
                            </div>
@@ -131,51 +130,43 @@
                                  <div class="accordion-item tp-faq-active">
                                    <h2 class="accordion-header" id="headingOne">
                                      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                       How to learn digital marketing?
+                                     Q: What is cloud object storage and how does it differ from traditional storage?
                                      </button>
                                    </h2>
                                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#general_accordion">
                                      <div class="accordion-body">
-                                       <p>A startup or start-up is started by individual founders or entrepreneurs to search for a repeatable and scalable business model. A startup or start-up is started by individual founders...</p>
+                                       <p>A: Cloud object storage is a scalable and flexible data storage solution that allows you to store and retrieve data through the internet. 
+                                          Unlike traditional storage, it offers on-demand resources, pay-as-you-go pricing, and high scalability.</p>
                                      </div>
                                    </div>
                                  </div>
                                  <div class="accordion-item">
                                    <h2 class="accordion-header" id="headingTwo">
                                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                       Can I use the demos made by Ewebot?
+                                    Q: How secure is my data in cloud object storage?
                                      </button>
                                    </h2>
                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#general_accordion">
                                      <div class="accordion-body">
-                                       <p>Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+                                       <p>A: Cloud object storage providers implement robust security measures, including encryption, access controls, and regular audits. 
+                                          Your data is stored in a secure and compliant environment, ensuring confidentiality and integrity.</p>
                                      </div>
                                    </div>
                                  </div>
                                  <div class="accordion-item">
                                    <h2 class="accordion-header" id="headingThree">
                                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                       Why didn’t you showcase my submission?
+                                     Q: Can I easily scale my storage needs with cloud object storage?
                                      </button>
                                    </h2>
                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#general_accordion">
                                      <div class="accordion-body">
-                                       <p>A startup or start-up is started by individual founders or entrepreneurs to search for a repeatable and scalable business model. A startup or start-up is started by individual founders...</p>
+                                       <p>A: Yes, one of the key advantages of cloud object storage is its scalability. You can seamlessly scale your storage capacity up 
+                                          or down based on your requirements, eliminating the need for upfront investment in hardware.</p>
                                      </div>
                                    </div>
                                  </div>
-                                 <div class="accordion-item">
-                                   <h2 class="accordion-header" id="headingFour">
-                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                       What everybody ought to know about digital marketing?
-                                     </button>
-                                   </h2>
-                                   <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#general_accordion">
-                                     <div class="accordion-body">
-                                       <p>A startup or start-up is started by individual founders or entrepreneurs to search for a repeatable and scalable business model. A startup or start-up is started by individual founders...</p>
-                                     </div>
-                                   </div>
-                                 </div>
+                                 
                                </div>
                            </div>
                         </div>
@@ -187,39 +178,7 @@
          <!-- service details area end -->
 
 
-         <!-- cta area start -->
-         <div class="tp-service-cta-area p-relative">
-            <div class="tp-cta-4-shape fadeUp">
-               <img src="assets/img/cta/home-3/shape-2.png" alt="">
-            </div>
-            <div class="container">
-               <div class="row gx-0">
-                  <div class="col-xl-6">
-                     <div class="tp-cta-4-wrapper-left">
-                        <img class="shape-1" src="assets/img/cta/home-3/shape-3.png" alt="">
-                        <div class="tp-cta-4-mail d-flex flex-wrap justify-content-center justify-content-xl-start align-items-center">
-                              <img src="assets/img/cta/home-3/conversation.png" alt="">
-                              <a href="mailto:@themepure.gmail.com">Contact us at <span>@Themepure.com</span></a>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-6">
-                     <div class="tp-cta-4-wrapper-right">
-                        <div class="tp-cta-4-headphone d-flex flex-wrap justify-content-center ">
-                           <div class="tp-cta-4-headphone-thumb">
-                              <img src="assets/img/cta/home-3/headphone.png" alt="">
-                           </div>
-                           <div class="tp-cta-4-content">
-                              <p>PERFECT SOLUTION From  <span>It Advisor</span></p>
-                              <a href="tel:9266688000">+92 666 888 0000</a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      <!-- cta area end -->
+         
       </main>
 
 <?php include('components/footer.php'); ?>

@@ -39,8 +39,8 @@
                                                 d="M0.48167 4.22573C87.7577 2.55537 174.532 2.28989 261.746 5.00006C264.795 5.09962 264.753 2.61068 261.746 2.489C175.096 -0.962325 86.9432 -1.06188 0.48167 3.70582C-0.144863 3.739 -0.165748 4.23679 0.48167 4.22573Z"
                                                 fill="currentColor" />
                                           </svg>
-                                          <span class="title-color">Tech</span> <br> <span
-                                             class="title-text-transparent">support</span>
+                                          <span class="title-color">Cloud</span> <br> <span
+                                             class="title-text-transparent">Tech</span>
                                        </h3>
                                        <div class="tp-hero-btn">
                                           <a class="tp-btn" href="about-us.php">Learn More <i
@@ -90,15 +90,15 @@
                                                 fill="currentColor" />
                                           </svg>
                                        </span>
-                                       <h3 class="tp-hero-title">IT service &
+                                       <h3 class="tp-hero-title">We provide
                                           <svg width="265" height="6" viewBox="0 0 265 6" fill="none"
                                              xmlns="http://www.w3.org/2000/svg">
                                              <path
                                                 d="M0.48167 4.22573C87.7577 2.55537 174.532 2.28989 261.746 5.00006C264.795 5.09962 264.753 2.61068 261.746 2.489C175.096 -0.962325 86.9432 -1.06188 0.48167 3.70582C-0.144863 3.739 -0.165748 4.23679 0.48167 4.22573Z"
                                                 fill="currentColor" />
                                           </svg>
-                                          <span class="title-color">Tech</span> <br> <span
-                                             class="title-text-transparent">Bundles</span>
+                                          <span class="title-color">Cloud</span> <br> <span
+                                             class="title-text-transparent">Solutions</span>
                                        </h3>
                                        <div class="tp-hero-btn">
                                           <a class="tp-btn" href="about-us.php">Learn More <i
@@ -148,15 +148,15 @@
                                                 fill="currentColor" />
                                           </svg>
                                        </span>
-                                       <h3 class="tp-hero-title">Trusted it &
+                                       <h3 class="tp-hero-title">Trusted & Reliable
                                           <svg width="265" height="6" viewBox="0 0 265 6" fill="none"
                                              xmlns="http://www.w3.org/2000/svg">
                                              <path
                                                 d="M0.48167 4.22573C87.7577 2.55537 174.532 2.28989 261.746 5.00006C264.795 5.09962 264.753 2.61068 261.746 2.489C175.096 -0.962325 86.9432 -1.06188 0.48167 3.70582C-0.144863 3.739 -0.165748 4.23679 0.48167 4.22573Z"
                                                 fill="currentColor" />
                                           </svg>
-                                          <span class="title-color">Tech</span> <br> <span
-                                             class="title-text-transparent">Solution</span>
+                                          <span class="title-color">CLoud</span> <span
+                                             class="title-text-transparent">Services</span>
                                        </h3>
                                        <div class="tp-hero-btn">
                                           <a class="tp-btn" href="about-us.php">Learn More <i
@@ -207,8 +207,8 @@
             <div class="tp-hero-service-shape">
                <img src="assets/img/hero/shape-5.png" alt="">
             </div>
-            <p>Our company provides a full range of <span>services</span> for the cons <br>
-               private houses and cottages since 19</p>
+            <p>Empowering Cloud Innovation Since 2008. Elevate your business with our comprehensive cloud services. 
+               Welcome to a future where your digital aspirations take flight
             <div class="tp-hero-service-quote">
                <img src="assets/img/hero/quot.png" alt="">
             </div>
@@ -274,9 +274,9 @@
                                     <img src="assets/img/about/icon-1.png" alt="">
                                  </div>
                                  <div class="tp-about-item-content">
-                                    <h4 class="about-title">Business services</h4>
-                                    <p>As far as we might be concerned <br> making an extraordinary advanc
-                                       <br> ed experience is a blend bet
+                                    <h4 class="about-title">Advanced Cloud Solutions</h4>
+                                    <p>Revolutionize your business with our Advanced Cloud Solutions.Enjoy a bespoke cloud experience designed to meet your organization's unique needs.
+                                       Benefit from dedicated resources, enhanced security, and complete control over your IT environment.
                                     </p>
                                     <div class="tp-about-item-btn">
                                        <a href="about-us.php"><i class="fa-regular fa-arrow-right"></i></a>
@@ -290,9 +290,9 @@
                                     <img src="assets/img/about/icon-2.png" alt="">
                                  </div>
                                  <div class="tp-about-item-content">
-                                    <h4 class="about-title">Education and training</h4>
-                                    <p>As far as we might be concerned <br> making an extraordinary advanc
-                                       <br> ed experience is a blend bet
+                                    <h4 class="about-title">Dynamic Computing Services</h4>
+                                    <p>Empower your business with Dynamic Computing Services. Scale your resources on demand for optimized performance and efficiency. 
+                                       Whether it's running applications, hosting websites, or managing data processing, our services offer unparalleled agility and performance.
                                     </p>
                                     <div class="tp-about-item-btn">
                                        <a href="about-us.php"><i class="fa-regular fa-arrow-right"></i></a>
@@ -306,9 +306,10 @@
                                     <img src="assets/img/about/icon-3.png" alt="">
                                  </div>
                                  <div class="tp-about-item-content">
-                                    <h4 class="about-title">Artificial intelligence</h4>
-                                    <p>As far as we might be concerned <br> making an extraordinary advanc
-                                       <br> ed experience is a blend bet
+                                    <h4 class="about-title">Intelligent Data Management</h4>
+                                    <p>AExplore the future of data storage with Intelligent Data Management solutions. 
+                                       Efficiently store, organize, and retrieve vast amounts of unstructured data with high durability, 
+                                       scalability, and accessibility. Secure your data and experience streamlined, cost-effective storage in the cloud.
                                     </p>
                                     <div class="tp-about-item-btn">
                                        <a href="about-us.php"><i class="fa-regular fa-arrow-right"></i></a>
@@ -320,8 +321,7 @@
                      </div>
                      <div class="tp-about-call">
                         <a href="tel:01310-069824">
-                           <p><i class="fa-solid fa-phone"></i> Provide IT services to hundreds customers <span>+88
-                                 01310-069824</span></p>
+                           <p><i class="fa-solid fa-phone"></i> Provide Cloud services to hundreds customers <span>+1 403 888 4243</span></p>
                         </a>
                      </div>
                   </div>
@@ -350,7 +350,7 @@
                            fill="currentColor" />
                      </svg>
                   </span>
-                  <h3 class="tp-section-title">We’ve Been Thriving In <span class="title-color">38 Years</span>
+                  <h3 class="tp-section-title">We’ve Been Thriving In <span class="title-color">15 Years</span>
                      <span class="title-right-shape">
                         <svg width="153" height="5" viewBox="0 0 153 5" fill="none" xmlns="http://www.w3.org/2000/svg">
                            <path
@@ -363,8 +363,9 @@
             </div>
             <div class="col-lg-6">
                <div class="tp-feature-wrapper p-relative">
-                  <p>As the complexity of buildings to increase, the field of architecture <br> became
-                     multi-disciplinary with technological expertise.</p>
+               <p> As the digital frontier evolves, our cloud expertise drives a <br> 
+                  multi-disciplinary force, pioneering tech solutions.
+               <p>
                </div>
             </div>
          </div>
@@ -392,7 +393,8 @@
                                  </svg>
                               </span>
                            </h3>
-                           <p>As far as we might be concerned <br> making an extraordinary ad</p>
+                           <p>Empowering Success Through <br> 
+                            Innovative Cloud Solutions </p>
                         </div>
                      </div>
                   </div>
@@ -424,7 +426,7 @@
                                  </svg>
                               </span>
                            </h3>
-                           <p>As far as we might be concerned <br> making an extraordinary ad</p>
+                           <p>Evolving Since ,<br> Pioneering Tech Excellence</p>
                         </div>
                      </div>
                   </div>
@@ -456,7 +458,7 @@
                                  </svg>
                               </span>
                            </h3>
-                           <p>As far as we might be concerned <br> making an extraordinary ad</p>
+                           <p>Building Excellence Through <br> Strategic Alliances</p>
                         </div>
                      </div>
                   </div>
@@ -616,7 +618,7 @@
                                  fill="currentColor" />
                            </svg>
                         </span>
-                        <h3 class="tp-section-title">Tech Change The World
+                        <h3 class="tp-section-title">Technix Change The World
                            <span class="title-left-shape">
                               <svg width="194" height="5" viewBox="0 0 194 5" fill="none"
                                  xmlns="http://www.w3.org/2000/svg">
@@ -626,8 +628,8 @@
                               </svg>
                            </span>
                         </h3>
-                        <p>Our company provides a full range of services for the construction of <br> private houses
-                           and cottages since 19
+                        <p>Empowering Progress in the Cloud: Unleashing Innovative Solutions Since 2008. Elevate your business with our comprehensive range of cloud services. 
+                           Welcome to a future where your digital aspirations take flight
                         </p>
                         <ul>
                            <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none"
@@ -635,13 +637,19 @@
                                     <path
                                        d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z"
                                        fill="currentColor" />
-                                 </svg></span>series of manual and semi-manual activities.</li>
+                                 </svg></span>Advanced Cloud Solutions.</li>
                            <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path
                                        d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z"
                                        fill="currentColor" />
-                                 </svg></span>Construction is different from other industries.</li>
+                                 </svg></span>Dynamic Computing Services.</li>
+                           <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                       d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z"
+                                       fill="currentColor" />
+                                 </svg></span>Intelligent Data Management.</li>
                         </ul>
                         <div class="tp-fun-fact-btn">
                            <a class="tp-btn" href="service-details.php">Tell us How Can We Help</a>
@@ -702,7 +710,7 @@
                   </div>
                   <div class="tp-support-feature-content">
                      <h4 class="tp-support-feature-content-title">Quick Result</h4>
-                     <p>Average time to resolve a <br> cyber attack.</p>
+                     <p>Average time to resolve a <br> your concerns.</p>
                   </div>
                </div>
             </div>
