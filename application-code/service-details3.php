@@ -44,45 +44,7 @@
                            </div>
                         </div>
 
-                        <div class="tp-service-widget-item mb-40">
-                           <div class="tp-service-contact">
-                              <div class="tp-service-contact-form">
-                                 <form id="contact-form" action="assets/mail.php" method="POST">
-                                    <div class="row tp-gx-10">
-                                       <div class="col-md-6">
-                                          <div class="tp-service-contact-input">
-                                             <input name="name" type="text" placeholder="Fast Name">
-                                          </div>
-                                       </div>
-                                       <div class="col-md-6">
-                                          <div class="tp-service-contact-input">
-                                             <input name="text" type="text" placeholder="Last Name">
-                                          </div>
-                                       </div>
-                                       <div class="col-md-6">
-                                          <div class="tp-service-contact-input">
-                                             <input name="email" type="email" placeholder="Email">
-                                          </div>
-                                       </div>
-                                       <div class="col-md-6">
-                                          <div class="tp-service-contact-input">
-                                             <input name="text" type="text" placeholder="Phone">
-                                          </div>
-                                       </div>
-                                       <div class="col-md-12">
-                                          <div class="tp-service-contact-input">
-                                             <textarea name="message" placeholder="Enter Message"></textarea>
-                                          </div>
-                                       </div>
-                                       <div class="tp-service-contact-btn mt-10">
-                                          <button type="submit" class="tp-btn">Send Message</button>
-                                       </div>
-                                    </div>
-                                 </form>
-                                 <p class="ajax-response"></p>
-                              </div>
-                           </div>
-                        </div>
+                        
                      </div>
                   </div>
                   <div class="col-lg-8">
@@ -98,9 +60,7 @@
                            <div class="col-lg-6">
                               <div class="tp-service-details-thumb p-relative">
                                  <img src="assets/img/services/service-details/img-2.jpg" alt="">
-                                 <div class="tp-video-play text-center">
-                                    <a class="popup-video effect-1 effect-2" href="https://www.youtube.com/watch?v=mxT233EdY5c"><i class="fa-sharp fa-solid fa-play"></i></a>
-                                 </div>
+                                 
                               </div>
                            </div>
                            <div class="col-lg-6">

@@ -52,13 +52,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <div class="col-lg-5">
-                                 <div class="tp-hero-play-btn">
-                                    <a class="popup-video"
-                                       href="https://www.youtube.com/watch?v=EW4ZYb3mCZk&ab_channel=ThemePure"><i
-                                          class="fa-sharp fa-solid fa-play"></i></a>
-                                 </div>
-                              </div>
+                              
                            </div>
                         </div>
                      </div>
@@ -110,13 +104,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <div class="col-lg-5">
-                                 <div class="tp-hero-play-btn">
-                                    <a class="popup-video"
-                                       href="https://www.youtube.com/watch?v=EW4ZYb3mCZk&ab_channel=ThemePure"><i
-                                          class="fa-sharp fa-solid fa-play"></i></a>
-                                 </div>
-                              </div>
+                              
                            </div>
                         </div>
                      </div>
@@ -155,7 +143,7 @@
                                                 d="M0.48167 4.22573C87.7577 2.55537 174.532 2.28989 261.746 5.00006C264.795 5.09962 264.753 2.61068 261.746 2.489C175.096 -0.962325 86.9432 -1.06188 0.48167 3.70582C-0.144863 3.739 -0.165748 4.23679 0.48167 4.22573Z"
                                                 fill="currentColor" />
                                           </svg>
-                                          <span class="title-color">CLoud</span> <span
+                                          <span class="title-color">Cloud</span> <span
                                              class="title-text-transparent">Services</span>
                                        </h3>
                                        <div class="tp-hero-btn">
@@ -168,13 +156,7 @@
                                     </div>
                                  </div>
                               </div>
-                              <div class="col-lg-5">
-                                 <div class="tp-hero-play-btn">
-                                    <a class="popup-video"
-                                       href="https://www.youtube.com/watch?v=EW4ZYb3mCZk&ab_channel=ThemePure"><i
-                                          class="fa-sharp fa-solid fa-play"></i></a>
-                                 </div>
-                              </div>
+                              
                            </div>
                         </div>
                      </div>
@@ -585,19 +567,19 @@
                <div class="col-lg-2 col-md-4">
                   <div class="tp-fun-fact-wrapper-box">
                      <div class="tp-fun-fact-wrapper">
-                        <h3 class="counter-title"> <span data-purecounter-duration="4" data-purecounter-end="10"
+                        <h3 class="counter-title"> <span data-purecounter-duration="4" data-purecounter-end="15"
                               class="purecounter"></span>+</h3>
                         <p>Experience</p>
                      </div>
                      <div class="tp-fun-fact-wrapper">
                         <h3 data-purecounter-duration="4" data-purecounter-end="255" class="purecounter counter-title">0
                            <span></span></h3>
-                        <p>square area</p>
+                        <p>Customers</p>
                      </div>
                      <div class="tp-fun-fact-wrapper">
-                        <h3 data-purecounter-duration="4" data-purecounter-end="310" class="purecounter counter-title">0
+                        <h3 data-purecounter-duration="2" data-purecounter-end="16" class="purecounter counter-title">0
                            <span></span></h3>
-                        <p>square area</p>
+                        <p>Services</p>
                      </div>
                   </div>
                </div>

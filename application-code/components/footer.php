@@ -12,18 +12,16 @@
                   </div>
                   <div class="tp-footer-widget-content">
                      <div class="tp-footer-info">
-                        <p class="p">The world’s first and largest digital marketplace <br> for crypto collectibles and
-                           non-fungible tokens (NFTs). Buy</p>
+                        <p class="p">Empowering Progress in the Cloud and Unleashing Innovative Solutions Since 2008. </p>
                         <div class="tp-footer-main-location">
                            <a
                               href="https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1">
-                              <i class="fa-sharp fa-light fa-location-dot"></i> 86 Road Broklyn Street, 600 <br> New
-                              York, USA
+                              <i class="fa-sharp fa-light fa-location-dot"></i> 159 Broklyn Street, Calgary <br> Alberta, CA
                            </a>
                         </div>
                         <div class="tp-footer-main-mail">
-                           <a href="mailto:needhelp@company.com"><i class="fa-light fa-message-dots"></i>
-                              Needhelp@company.com <br> +92 666 888 0000</a>
+                           <a href="mailto:needhelp@technix.com"><i class="fa-light fa-message-dots"></i>
+                              Needhelp@technix.com <br> +1 403 123 4567</a>
                         </div>
                      </div>
                   </div>

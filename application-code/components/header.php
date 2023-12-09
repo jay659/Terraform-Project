@@ -115,7 +115,7 @@
                <div class="mobile-menu fix d-lg-none"></div>
                <div class="tp-mobile-menu-pos"></div>
                <div class="offcanvas__popup">
-                  <p>Web designing in a powerful way of just not an only professions. We have tendency to believe the idea that smart looking .</p>
+                  <p>Empowering Cloud Innovation Since 2008. Welcome to a future where your digital aspirations take flight</p>
                   <div class="offcanvas__popup-gallery">
                      <h4 class="offcanvas__title">Gallery</h4>
                      <a class="popup-image" href="assets/img/portfolio/img-1.jpg">
@@ -145,7 +145,7 @@
                         <i class="fa-sharp fa-solid fa-location-dot"></i>
                      </div>
                      <div class="offcanvas__contact-content-content">
-                        <a href="https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1">86 Road Broklyn Street, 600 </a>
+                        <a href="https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1">159 Broklyn Street, Calgary </a>
                      </div>
                   </div>
                   <div class="offcanvas__contact-content d-flex">
@@ -153,7 +153,7 @@
                         <i class="fa-solid fa-envelope"></i>
                      </div>
                      <div class="offcanvas__contact-content-content">
-                        <a href="mailto:needhelp@company.com"> Needhelp@company.com  </a>
+                        <a href="mailto:needhelp@company.com"> Needhelp@technix.com  </a>
                      </div>
                   </div>
                   <div class="offcanvas__contact-content d-flex">
@@ -161,16 +161,11 @@
                         <i class="fa-solid fa-phone"></i>
                      </div>
                      <div class="offcanvas__contact-content-content">
-                        <a href="tel:01310-069824"> +92 666 888 0000</a>
+                        <a href="tel:01310-069824">+1 403 123 4567</a>
                      </div>
                   </div>
                </div>
-               <div class="offcanvas__social">
-                  <a class="icon facebook" href="#"><i class="fab fa-facebook-f"></i></a>
-                  <a class="icon twitter" href="#"><i class="fab fa-twitter"></i></a>
-                  <a class="icon youtube" href="#"><i class="fab fa-youtube"></i></a>
-                  <a class="icon linkedin" href="#"><i class="fab fa-linkedin"></i></a>
-               </div>
+              
             </div>
          </div>
       </div>
