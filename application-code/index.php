@@ -24,7 +24,7 @@
                                  <div class="tp-hero-content p-relative">
                                     <div class="tp-hero-title-wrapper">
                                        <span class="tp-section-title__pre p-relative">
-                                          best <span class="title-pre-color">Cloud solutions</span>
+                                          best <span class="title-pre-color">it solutions</span>
                                           <svg width="123" height="8" viewBox="0 0 123 8" fill="none"
                                              xmlns="http://www.w3.org/2000/svg">
                                              <path
@@ -52,7 +52,13 @@
                                     </div>
                                  </div>
                               </div>
-                              
+                              <div class="col-lg-5">
+                                 <div class="tp-hero-play-btn">
+                                    <a class="popup-video"
+                                       href="https://www.youtube.com/watch?v=EW4ZYb3mCZk&ab_channel=ThemePure"><i
+                                          class="fa-sharp fa-solid fa-play"></i></a>
+                                 </div>
+                              </div>
                            </div>
                         </div>
                      </div>
@@ -76,7 +82,7 @@
                                  <div class="tp-hero-content p-relative">
                                     <div class="tp-hero-title-wrapper">
                                        <span class="tp-section-title__pre p-relative">
-                                          best <span class="title-pre-color">Cloud solutions</span>
+                                          best <span class="title-pre-color">it solutions</span>
                                           <svg width="123" height="8" viewBox="0 0 123 8" fill="none"
                                              xmlns="http://www.w3.org/2000/svg">
                                              <path
@@ -104,7 +110,13 @@
                                     </div>
                                  </div>
                               </div>
-                              
+                              <div class="col-lg-5">
+                                 <div class="tp-hero-play-btn">
+                                    <a class="popup-video"
+                                       href="https://www.youtube.com/watch?v=EW4ZYb3mCZk&ab_channel=ThemePure"><i
+                                          class="fa-sharp fa-solid fa-play"></i></a>
+                                 </div>
+                              </div>
                            </div>
                         </div>
                      </div>
@@ -128,7 +140,7 @@
                                  <div class="tp-hero-content p-relative">
                                     <div class="tp-hero-title-wrapper">
                                        <span class="tp-section-title__pre p-relative">
-                                          best <span class="title-pre-color">Cloud solutions</span>
+                                          best <span class="title-pre-color">it solutions</span>
                                           <svg width="123" height="8" viewBox="0 0 123 8" fill="none"
                                              xmlns="http://www.w3.org/2000/svg">
                                              <path
@@ -143,7 +155,7 @@
                                                 d="M0.48167 4.22573C87.7577 2.55537 174.532 2.28989 261.746 5.00006C264.795 5.09962 264.753 2.61068 261.746 2.489C175.096 -0.962325 86.9432 -1.06188 0.48167 3.70582C-0.144863 3.739 -0.165748 4.23679 0.48167 4.22573Z"
                                                 fill="currentColor" />
                                           </svg>
-                                          <span class="title-color">Cloud</span> <span
+                                          <span class="title-color">CLoud</span> <span
                                              class="title-text-transparent">Services</span>
                                        </h3>
                                        <div class="tp-hero-btn">
@@ -156,7 +168,13 @@
                                     </div>
                                  </div>
                               </div>
-                              
+                              <div class="col-lg-5">
+                                 <div class="tp-hero-play-btn">
+                                    <a class="popup-video"
+                                       href="https://www.youtube.com/watch?v=EW4ZYb3mCZk&ab_channel=ThemePure"><i
+                                          class="fa-sharp fa-solid fa-play"></i></a>
+                                 </div>
+                              </div>
                            </div>
                         </div>
                      </div>
@@ -218,7 +236,7 @@
                      <div class="col-lg-8">
                         <div class="tp-about-title-wrapper p-relative">
                            <span class="tp-section-title__pre">
-                              best <span class="title-pre-color">Cloud service</span>
+                              best <span class="title-pre-color">it service</span>
                               <svg width="123" height="8" viewBox="0 0 123 8" fill="none"
                                  xmlns="http://www.w3.org/2000/svg">
                                  <path
@@ -256,9 +274,9 @@
                                     <img src="assets/img/about/icon-1.png" alt="">
                                  </div>
                                  <div class="tp-about-item-content">
-                                    <h4 class="about-title">Advanced Cloud Solutions</h4>
-                                    <p>Revolutionize your business with our Advanced Cloud Solutions.Enjoy a bespoke cloud experience designed to meet your organization's unique needs.
-                                       Benefit from dedicated resources, enhanced security, and complete control over your IT environment.
+                                    <h4 class="about-title">IaaS</h4>
+                                    <p>Elevate your business with our IaaS solutions, offering scalable infrastructure for optimal performance. 
+                                       Enjoy dedicated resources, enhanced security, and complete IT control tailored to your unique needs.
                                     </p>
                                     <div class="tp-about-item-btn">
                                        <a href="about-us.php"><i class="fa-regular fa-arrow-right"></i></a>
@@ -272,9 +290,9 @@
                                     <img src="assets/img/about/icon-2.png" alt="">
                                  </div>
                                  <div class="tp-about-item-content">
-                                    <h4 class="about-title">Dynamic Computing Services</h4>
-                                    <p>Empower your business with Dynamic Computing Services. Scale your resources on demand for optimized performance and efficiency. 
-                                       Whether it's running applications, hosting websites, or managing data processing, our services offer unparalleled agility and performance.
+                                    <h4 class="about-title">PaaS</h4>
+                                    <p>Simplify application development with our PaaS solutions, streamlining workflows and enhancing collaboration. 
+                                       Focus on building exceptional applications without the hassle of managing underlying infrastructure
                                     </p>
                                     <div class="tp-about-item-btn">
                                        <a href="about-us.php"><i class="fa-regular fa-arrow-right"></i></a>
@@ -288,10 +306,9 @@
                                     <img src="assets/img/about/icon-3.png" alt="">
                                  </div>
                                  <div class="tp-about-item-content">
-                                    <h4 class="about-title">Intelligent Data Management</h4>
-                                    <p>AExplore the future of data storage with Intelligent Data Management solutions. 
-                                       Efficiently store, organize, and retrieve vast amounts of unstructured data with high durability, 
-                                       scalability, and accessibility. Secure your data and experience streamlined, cost-effective storage in the cloud.
+                                    <h4 class="about-title">SaaS</h4>
+                                    <p>Transform your software experience with our SaaS solutions, providing user-friendly applications accessible anywhere. 
+                                       Benefit from automatic updates and robust security measures for a consistently current and protected digital workspace.
                                     </p>
                                     <div class="tp-about-item-btn">
                                        <a href="about-us.php"><i class="fa-regular fa-arrow-right"></i></a>
@@ -325,7 +342,7 @@
             <div class="col-lg-6">
                <div class="tp-feature-title-wrapper">
                   <span class="tp-section-title__pre">
-                     feature <span class="title-pre-color">Cloud Solutions</span>
+                     feature <span class="title-pre-color">IT Solutions</span>
                      <svg width="123" height="8" viewBox="0 0 123 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path
                            d="M0.384401 7.82144C0.645399 4.52972 8.83029 8.38041 10.8974 7.67652C12.4321 7.1486 11.6386 7.03474 12.9749 6.19628C14.0816 4.61253 15.7519 3.89829 17.9756 4.06391C18.6125 4.48831 19.2284 4.93342 19.8444 5.38888C21.1076 6.09277 22.1621 6.51717 23.6028 6.13417C24.8973 5.79258 25.5237 4.79885 26.6095 4.18812C30.8481 1.80732 31.3701 2.90456 34.5855 4.58147C36.0993 5.36817 37.634 6.48612 39.461 6.08242C40.1604 5.92715 40.2127 5.67871 40.672 5.54415C42.1023 4.10531 43.9606 3.52564 46.2469 3.80512C47.0612 4.28129 47.8651 4.75745 48.669 5.25431C50.9866 6.22733 54.5049 6.23769 54.6615 3.08053C54.3065 3.22545 53.962 3.37037 53.6175 3.51529C55.622 5.75117 58.6078 6.59998 61.5205 5.5752C64.8091 4.41585 63.8277 3.02877 67.1685 4.35374C68.6614 4.94377 70.2587 5.14045 71.856 4.96447C73.6412 4.7678 75.1028 3.27721 76.6271 3.07018C79.0491 2.73894 81.3354 4.89201 84.2482 4.15707C85.3235 3.88793 86.9417 2.27313 87.7978 2.21102C88.6329 2.14891 89.9484 3.68091 90.8358 4.14672C93.3936 5.51309 96.5882 5.75117 99.3234 4.7471C101.902 3.80512 100.858 3.60845 103.124 4.30199C104.366 4.67464 105.253 5.34747 106.652 5.45099C109.628 5.65801 112.175 4.26058 113.678 1.77626C113.25 1.77626 112.822 1.77626 112.384 1.77626C114.722 5.49239 119.587 6.10312 122.771 3.05983C123.471 2.39734 122.406 1.34151 121.707 2.00399C119.316 4.29164 115.516 3.95004 113.678 1.03097C113.386 0.554807 112.687 0.544455 112.384 1.03097C110.223 4.62288 105.159 4.84026 102.549 1.7038C102.278 1.38291 101.777 1.46572 101.495 1.7038C97.6113 4.99553 91.8171 4.46761 88.6747 0.368483C88.4242 0.0372403 87.85 -0.190489 87.5159 0.223564C84.9685 3.37037 80.7717 3.86723 77.6606 1.10343C77.3787 0.854995 76.9507 0.823941 76.6584 1.10343C73.422 4.26058 68.6823 4.52972 65.1432 1.63134C64.83 1.37256 64.3706 1.38291 64.1409 1.75556C61.9799 5.40958 57.2297 5.74082 54.4631 2.65613C54.0873 2.24207 53.44 2.59402 53.4191 3.09088C53.2103 7.04509 45.6727 1.72451 43.8979 1.92118C40.4841 2.30418 40.2127 5.74082 35.7026 3.82583C33.4894 2.88386 31.8085 0.989563 29.1777 1.39326C26.9226 1.74521 25.9622 3.86723 23.9682 4.63323C20.4603 5.9789 19.2702 2.13856 16.2531 2.33524C11.2941 2.66648 14.1442 7.41774 6.43955 5.75117C4.22629 5.27501 -0.221114 3.93969 0.00856432 7.82144C0.0190042 8.05952 0.363521 8.05952 0.384401 7.82144Z"
@@ -463,14 +480,14 @@
                <div class="col-lg-12">
                   <div class="tp-service-title-wrapper text-center">
                      <span class="tp-section-title__pre">
-                        service <span class="title-pre-color">Cloud Solutions</span>
+                        service <span class="title-pre-color">IT Solutions</span>
                         <svg width="123" height="8" viewBox="0 0 123 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                            <path
                               d="M0.384401 7.82144C0.645399 4.52972 8.83029 8.38041 10.8974 7.67652C12.4321 7.1486 11.6386 7.03474 12.9749 6.19628C14.0816 4.61253 15.7519 3.89829 17.9756 4.06391C18.6125 4.48831 19.2284 4.93342 19.8444 5.38888C21.1076 6.09277 22.1621 6.51717 23.6028 6.13417C24.8973 5.79258 25.5237 4.79885 26.6095 4.18812C30.8481 1.80732 31.3701 2.90456 34.5855 4.58147C36.0993 5.36817 37.634 6.48612 39.461 6.08242C40.1604 5.92715 40.2127 5.67871 40.672 5.54415C42.1023 4.10531 43.9606 3.52564 46.2469 3.80512C47.0612 4.28129 47.8651 4.75745 48.669 5.25431C50.9866 6.22733 54.5049 6.23769 54.6615 3.08053C54.3065 3.22545 53.962 3.37037 53.6175 3.51529C55.622 5.75117 58.6078 6.59998 61.5205 5.5752C64.8091 4.41585 63.8277 3.02877 67.1685 4.35374C68.6614 4.94377 70.2587 5.14045 71.856 4.96447C73.6412 4.7678 75.1028 3.27721 76.6271 3.07018C79.0491 2.73894 81.3354 4.89201 84.2482 4.15707C85.3235 3.88793 86.9417 2.27313 87.7978 2.21102C88.6329 2.14891 89.9484 3.68091 90.8358 4.14672C93.3936 5.51309 96.5882 5.75117 99.3234 4.7471C101.902 3.80512 100.858 3.60845 103.124 4.30199C104.366 4.67464 105.253 5.34747 106.652 5.45099C109.628 5.65801 112.175 4.26058 113.678 1.77626C113.25 1.77626 112.822 1.77626 112.384 1.77626C114.722 5.49239 119.587 6.10312 122.771 3.05983C123.471 2.39734 122.406 1.34151 121.707 2.00399C119.316 4.29164 115.516 3.95004 113.678 1.03097C113.386 0.554807 112.687 0.544455 112.384 1.03097C110.223 4.62288 105.159 4.84026 102.549 1.7038C102.278 1.38291 101.777 1.46572 101.495 1.7038C97.6113 4.99553 91.8171 4.46761 88.6747 0.368483C88.4242 0.0372403 87.85 -0.190489 87.5159 0.223564C84.9685 3.37037 80.7717 3.86723 77.6606 1.10343C77.3787 0.854995 76.9507 0.823941 76.6584 1.10343C73.422 4.26058 68.6823 4.52972 65.1432 1.63134C64.83 1.37256 64.3706 1.38291 64.1409 1.75556C61.9799 5.40958 57.2297 5.74082 54.4631 2.65613C54.0873 2.24207 53.44 2.59402 53.4191 3.09088C53.2103 7.04509 45.6727 1.72451 43.8979 1.92118C40.4841 2.30418 40.2127 5.74082 35.7026 3.82583C33.4894 2.88386 31.8085 0.989563 29.1777 1.39326C26.9226 1.74521 25.9622 3.86723 23.9682 4.63323C20.4603 5.9789 19.2702 2.13856 16.2531 2.33524C11.2941 2.66648 14.1442 7.41774 6.43955 5.75117C4.22629 5.27501 -0.221114 3.93969 0.00856432 7.82144C0.0190042 8.05952 0.363521 8.05952 0.384401 7.82144Z"
                               fill="currentColor" />
                         </svg>
                      </span>
-                     <h3 class="tp-section-title">All Professional <i>Cloud Solutions</i> & Services
+                     <h3 class="tp-section-title">All Professional <i>IT Solutions</i> & Services
                         <span class="title-center-shape">
                            <svg width="194" height="5" viewBox="0 0 194 5" fill="none"
                               xmlns="http://www.w3.org/2000/svg">
@@ -489,7 +506,7 @@
                            <div class="splide__slide">
                               <div class="tp-service-wrapper p-relative mb-55">
                                  <div class="tp-service-designation">
-                                    <p>></p>
+                                    <p>P</p>
                                  </div>
                                  <h3 class="service-title">Cloud <br> Compute</h3>
                                  <div class="tp-service-icon">
@@ -505,9 +522,9 @@
                            <div class="splide__slide">
                               <div class="tp-service-wrapper p-relative mb-55">
                                  <div class="tp-service-designation">
-                                    <p>></p>
+                                    <p>V</p>
                                  </div>
-                                 <h3 class="service-title">Cloud object <br> Storage</h3>
+                                 <h3 class="service-title">Website <br> Development</h3>
                                  <div class="tp-service-icon">
                                     <img src="assets/img/services/services-1.jpg" alt="">
                                  </div>
@@ -521,16 +538,14 @@
                            <div class="splide__slide">
                               <div class="tp-service-wrapper p-relative mb-55">
                                  <div class="tp-service-designation">
-                                    <p>></p>
+                                    <p>C</p>
                                  </div>
-                                 <h3 class="service-title">Private Cloud</h3>
+                                 <h3 class="service-title">E-commerce</h3>
                                  <div class="tp-service-icon">
                                     <img src="assets/img/services/services-2.jpg" alt="">
                                  </div>
                                  <p class="hide-text">Your customized, secure cloud environment for ultimate control
-                                    </p>
-                                    <br>
-                                    
+                                 </p>
                                  <div class="tp-service-btn">
                                     <a href="service-details3.php">Read Out More <i
                                           class="fa-solid fa-arrow-up-right"></i></a>
@@ -569,19 +584,19 @@
                <div class="col-lg-2 col-md-4">
                   <div class="tp-fun-fact-wrapper-box">
                      <div class="tp-fun-fact-wrapper">
-                        <h3 class="counter-title"> <span data-purecounter-duration="4" data-purecounter-end="15"
+                        <h3 class="counter-title"> <span data-purecounter-duration="4" data-purecounter-end="10"
                               class="purecounter"></span>+</h3>
                         <p>Experience</p>
                      </div>
                      <div class="tp-fun-fact-wrapper">
                         <h3 data-purecounter-duration="4" data-purecounter-end="255" class="purecounter counter-title">0
                            <span></span></h3>
-                        <p>Customers</p>
+                        <p>square area</p>
                      </div>
                      <div class="tp-fun-fact-wrapper">
-                        <h3 data-purecounter-duration="2" data-purecounter-end="16" class="purecounter counter-title">0
+                        <h3 data-purecounter-duration="4" data-purecounter-end="310" class="purecounter counter-title">0
                            <span></span></h3>
-                        <p>Services</p>
+                        <p>square area</p>
                      </div>
                   </div>
                </div>
@@ -594,7 +609,7 @@
                   <div class="tp-fun-fact-content">
                      <div class="tp-fun-fact-title-wrapper">
                         <span class="tp-section-title__pre">
-                           service <span class="title-pre-color">Cloud Solutions</span>
+                           service <span class="title-pre-color">IT Solutions</span>
                            <svg width="123" height="8" viewBox="0 0 123 8" fill="none"
                               xmlns="http://www.w3.org/2000/svg">
                               <path
@@ -612,7 +627,7 @@
                               </svg>
                            </span>
                         </h3>
-                        <p>Empowering Progress in the Cloud: Unleashing Innovative Solutions Since 2008. Elevate your business with our comprehensive range of cloud services. 
+                        <p>Empowering Progress in the Cloud: Unleashing Innovative Solutions Since 2008. Elevate your business with our comprehensive range of cloud services which cover IaaS , PaaS & SaaS. 
                            Welcome to a future where your digital aspirations take flight
                         </p>
                         <ul>
@@ -621,19 +636,19 @@
                                     <path
                                        d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z"
                                        fill="currentColor" />
-                                 </svg></span>Advanced Cloud Solutions.</li>
+                                 </svg></span>Cutting-edge Computing services.</li>
                            <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path
                                        d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z"
                                        fill="currentColor" />
-                                 </svg></span>Dynamic Computing Services.</li>
+                                 </svg></span>Innovative Web Crafting Solutions..</li>
                            <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path
                                        d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z"
                                        fill="currentColor" />
-                                 </svg></span>Intelligent Data Management.</li>
+                                 </svg></span>Dynamic Digital Commerce Solutions..</li>
                         </ul>
                         <div class="tp-fun-fact-btn">
                            <a class="tp-btn" href="service-details.php">Tell us How Can We Help</a>

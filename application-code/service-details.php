@@ -39,16 +39,54 @@
                         <ul>
                            <li><a class="active" href="service-details.php">Cloud Compute <i
                                     class="fa-regular fa-arrow-right-long"></i></a></li>
-                           <li><a href="service-details2.php">Cloud object Storage <i
+                           <li><a href="service-details2.php">Website Development <i
                                     class="fa-regular fa-arrow-right-long"></i></a></li>
-                           <li><a href="service-details3.php">Private Cloud <i
+                           <li><a href="service-details3.php">E-commerce <i
                                     class="fa-regular fa-arrow-right-long"></i></a></li>
 
                         </ul>
                      </div>
                   </div>
 
-                  
+                  <div class="tp-service-widget-item mb-40">
+                     <div class="tp-service-contact">
+                        <div class="tp-service-contact-form">
+                           <form id="contact-form" action="assets/mail.php" method="POST">
+                              <div class="row tp-gx-10">
+                                 <div class="col-md-6">
+                                    <div class="tp-service-contact-input">
+                                       <input name="name" type="text" placeholder="Fast Name">
+                                    </div>
+                                 </div>
+                                 <div class="col-md-6">
+                                    <div class="tp-service-contact-input">
+                                       <input name="text" type="text" placeholder="Last Name">
+                                    </div>
+                                 </div>
+                                 <div class="col-md-6">
+                                    <div class="tp-service-contact-input">
+                                       <input name="email" type="email" placeholder="Email">
+                                    </div>
+                                 </div>
+                                 <div class="col-md-6">
+                                    <div class="tp-service-contact-input">
+                                       <input name="text" type="text" placeholder="Phone">
+                                    </div>
+                                 </div>
+                                 <div class="col-md-12">
+                                    <div class="tp-service-contact-input">
+                                       <textarea name="message" placeholder="Enter Message"></textarea>
+                                    </div>
+                                 </div>
+                                 <div class="tp-service-contact-btn mt-10">
+                                    <button type="submit" class="tp-btn">Send Message</button>
+                                 </div>
+                              </div>
+                           </form>
+                           <p class="ajax-response"></p>
+                        </div>
+                     </div>
+                  </div>
                </div>
             </div>
             <div class="col-lg-8">
