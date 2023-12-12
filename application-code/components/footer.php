@@ -12,16 +12,18 @@
                   </div>
                   <div class="tp-footer-widget-content">
                      <div class="tp-footer-info">
-                        <p class="p">Empowering Progress in the Cloud and Unleashing Innovative Solutions Since 2008. </p>
+                        <p class="p">Cloud Pioneers Since 2008: Your Source for Innovation. Elevate your digital experience with Technix. 
+                           <br>Welcome to a future of limitless possibilities</p>
                         <div class="tp-footer-main-location">
                            <a
                               href="https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1">
-                              <i class="fa-sharp fa-light fa-location-dot"></i> 159 Broklyn Street, Calgary <br> Alberta, CA
+                              <i class="fa-sharp fa-light fa-location-dot"></i> 12 Main Street Suite 480 <br> Calgary ,AB T2P 1A1
+                              ,Canada
                            </a>
                         </div>
                         <div class="tp-footer-main-mail">
-                           <a href="mailto:needhelp@technix.com"><i class="fa-light fa-message-dots"></i>
-                              Needhelp@technix.com <br> +1 403 123 4567</a>
+                           <a href="mailto:customer@technix.com"><i class="fa-light fa-message-dots"></i>
+                              customer@technix.com <br> +1 403 888 4243</a>
                         </div>
                      </div>
                   </div>
