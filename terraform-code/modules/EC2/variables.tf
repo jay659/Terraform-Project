@@ -1,5 +1,5 @@
 variable "instance_name" {
-  default = "Application Server"
+  default = "Group 3 - CLCM 3102 - Application Server"
 }
 
 variable "ami_id" {
@@ -11,7 +11,7 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  default = "Project-Application-Server"
+  default = "Group-3-CLCM-3102-Project-Application-Server"
 }
 
 variable "vpc_id" {
