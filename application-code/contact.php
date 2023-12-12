@@ -57,8 +57,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                <div class="tp-contact-wrapper">
                   <div class="tp-contact-title-wrapper">
                      <h3 class="tp-contact-title">Contact <span class="title-color">With us</span></h3>
-                     <p>Email, call, or complete the form to learn how Technix can <br> solve your cloud management and
-                        governance problems.</p>
+                     <p>Email, call, or complete the form to learn how Kion can <br> solve your cloud management and
+                        governance cha.</p>
                   </div>
                   <div class="tp-contact-content">
                      <div class="tp-contact-content-mail d-flex align-items-center">
@@ -96,7 +96,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                               </svg>
                            </span>
                         </div>
-                        <h3 class="tp-contact-item-title"><a href="mailto:@themepure.gmail.com">thepureingsai.co.uk</a>
+                        <h3 class="tp-contact-item-title"><a href="mailto:customer@technix.com">customer@technix.com</a>
                         </h3>
                      </div>
                      <div class="tp-contact-content-phone d-flex align-items-center">
@@ -116,16 +116,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                               </svg>
                            </span>
                         </div>
-                        <h3 class="tp-contact-item-title"><a href="tel:+14031234567">+1 403 123 4567</a></h3>
+                        <h3 class="tp-contact-item-title"><a href="tel:9266688000">+880 123 456 789 , 99875</a></h3>
                      </div>
                      <div class="tp-contact-location-wrapper d-flex">
                         <div class="tp-contact-location">
                            <h3 class="tp-contact-location-title">Office Location <i
                                  class="fa-regular fa-arrow-down"></i></h3>
-                           <p>159 Broklyn Street, 
-                              Calgary, T1Q1B1</p>
+                           <p>4517 Washington Ave. Manch
+                              ester, Kentucky 39495</p>
                         </div>
-                        
+                        <div class="tp-contact-location">
+                           <h3 class="tp-contact-location-title">Office Location <i
+                                 class="fa-regular fa-arrow-down"></i></h3>
+                           <p>4517 Washington Ave. Manch
+                              ester, Kentucky 39495</p>
+                        </div>
                      </div>
                   </div>
                </div>
@@ -133,7 +138,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="col-lg-6">
                <div class="tp-contact-form">
                   <h3 class="tp-contact-form-title">Contact Us</h3>
-                  <p>Your email address will not be published.<br> Required fields are marked *</p>
+                  <p>Your email address will not be published. Required fields <br> are marked *</p>
                   <form id="contact-form" action="contact.php" autocomplete="on" method="POST">
                      <div class="row tp-gx-10">
                         <div class="col-md-6">
