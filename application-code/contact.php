@@ -116,7 +116,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                               </svg>
                            </span>
                         </div>
-                        <h3 class="tp-contact-item-title"><a href="tel:9266688000">+880 123 456 789 , 99875</a></h3>
+                        <h3 class="tp-contact-item-title"><a href="tel:9266688000">+1 403 888 4243 </a></h3>
                      </div>
                      <div class="tp-contact-location-wrapper d-flex">
                         <div class="tp-contact-location">
