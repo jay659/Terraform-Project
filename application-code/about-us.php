@@ -52,12 +52,10 @@
                               fill="currentColor"></path>
                         </svg>
                      </span>
-                     <h3 class="tp-section-title">Best Cloud <span class="title-color">Technology</span> <br> Company
-                        For People</h3>
+                     <h3 class="tp-section-title">Premier Cloud Education <span class="title-color">Provider for </span>Aspiring <br/> Professionals
+                       
                   </div>
-                  <p class="text">Elevate your cloud journey with us — your trusted partner and the best cloud technology company for people.
-                     Experience cutting-edge solutions tailored to your needs
-                     defining a new era of innovation and efficiency.</p>
+                  <p class="text">"Elevate your cloud learning journey with us — your trusted partner and the premier destination for cloud education. Experience cutting-edge courses tailored to your needs, defining a new era of knowledge and skill development."</p>
                   <div class="tp-about-progressbar-inner d-flex flex-wrap pt-20">
                      <div class="tp-about-3-progressbar d-flex align-items-center">
                         <div class="circular tl-progress">
@@ -66,7 +64,7 @@
                               data-readonly="true" disabled />
                         </div>
                         <div class="tp-about-3-progressbar-title">
-                           <p>Cloud <br> Strategy Growth</p>
+                           <p>Cloud <br> Programs</p>
                         </div>
                      </div>
                      <div class="tp-about-3-progressbar d-flex align-items-center">
@@ -76,7 +74,7 @@
                               data-readonly="true" disabled />
                         </div>
                         <div class="tp-about-3-progressbar-title">
-                           <p>Hybrid Valuable <br> Ideas</p>
+                           <p>Hybrid Valuable <br> Courses </p>
                         </div>
                      </div>
                   </div>
@@ -115,28 +113,28 @@
                         <div class="tp-counter-wrapper tp-counter-border text-center">
                            <h3 class="counter-title"> <span data-purecounter-duration="2" data-purecounter-end="560"
                                  class="purecounter">0</span></h3>
-                           <span class="counter-subtitle">Total Services</span>
+                           <span class="counter-subtitle">Total Courses Offered</span>
                         </div>
                      </div>
                      <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="tp-counter-wrapper tp-counter-border text-center">
                            <h3 class="counter-title"> <span data-purecounter-duration="2" data-purecounter-end="98"
                                  class="purecounter">0</span>%</h3>
-                           <span class="counter-subtitle">Client Satisfiction</span>
+                           <span class="counter-subtitle">Student Satisfaction Rate</span>
                         </div>
                      </div>
                      <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="tp-counter-wrapper tp-counter-border text-center">
                            <h3 class="counter-title"> <span data-purecounter-duration="2" data-purecounter-end="3"
                                  class="purecounter">0</span>m+</h3>
-                           <span class="counter-subtitle">Monthly Revinew</span>
+                           <span class="counter-subtitle">Monthly Revenue</span>
                         </div>
                      </div>
                      <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="tp-counter-wrapper text-center">
                            <h3 class="counter-title"> <span data-purecounter-duration="2" data-purecounter-end="15"
                                  class="purecounter">0</span>+</h3>
-                           <span class="counter-subtitle">Years Experince</span>
+                           <span class="counter-subtitle">Years of Experience</span>
                         </div>
                      </div>
                   </div>
@@ -178,8 +176,7 @@
             </div>
             <div class="col-lg-6">
                <div class="tp-feature-wrapper p-relative">
-                  <p>As the complexity of buildings to increase, the field of architecture <br> became
-                     multi-disciplinary with technological expertise.</p>
+                  <p>As the demand for advanced cloud solutions rises, the field of cloud architecture has evolved into a multi-disciplinary realm, integrating diverse technological expertise.</p>
                </div>
             </div>
          </div>
@@ -309,34 +306,31 @@
                         </svg>
                      </span>
                   </h3>
-                  <p>Empowering Progress in the Cloud: Unleashing Innovative Solutions Since 2008. Elevate your business with our comprehensive range of cloud services. 
-                           Welcome to a future where your digital aspirations take flight</p>
+                  <p>Empowering Progress in Cloud Education: Unleashing Innovative Learning Since 2008. Elevate your skills with our comprehensive range of cloud courses. Welcome to a future where your digital aspirations take flight.</p>
                   <ul class="mb-65">
                      <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none"
                               xmlns="http://www.w3.org/2000/svg">
                               <path
                                  d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z"
                                  fill="currentColor"></path>
-                           </svg></span>Advanced Cloud Solutions.
+                           </svg></span>Advanced Cloud Programs.
                      </li>
                      <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none"
                               xmlns="http://www.w3.org/2000/svg">
                               <path
                                  d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z"
                                  fill="currentColor"></path>
-                           </svg></span>Dynamic Computing Services.
+                           </svg></span>Dynamic Courses.
                      </li>
                      <li><span><svg width="16" height="15" viewBox="0 0 16 15" fill="none"
                               xmlns="http://www.w3.org/2000/svg">
                               <path
                                  d="M15.794 2.17595C14.426 3.42395 13.094 4.87595 11.798 6.53195C10.67 7.95995 9.656 9.42395 8.756 10.924C7.94 12.268 7.346 13.42 6.974 14.38C6.962 14.416 6.938 14.446 6.902 14.47C6.866 14.506 6.824 14.524 6.776 14.524C6.764 14.536 6.752 14.542 6.74 14.542C6.656 14.542 6.596 14.518 6.56 14.47L0.134 7.93595C0.122 7.92395 0.278 7.76795 0.602 7.46795C0.926 7.15595 1.244 6.87395 1.556 6.62195C1.904 6.33395 2.09 6.20195 2.114 6.22595L5.642 8.99795C6.674 7.78595 7.832 6.58595 9.116 5.39795C11.048 3.62195 13.04 2.10995 15.092 0.861953C15.128 0.861953 15.266 1.02995 15.506 1.36595L15.866 1.88795C15.878 1.93595 15.878 1.98995 15.866 2.04995C15.854 2.09795 15.83 2.13995 15.794 2.17595Z"
                                  fill="currentColor"></path>
-                           </svg></span>Intelligent Data Management
+                           </svg></span>Intelligent Management
                      </li>
                   </ul>
-                  <div class="tp-support-breadcrumb-btn mb-30">
-                     <a class="tp-btn" href="service-details.php">Tell us How Can We Help</a>
-                  </div>
+                 
                </div>
             </div>
             <div class="col-lg-6">

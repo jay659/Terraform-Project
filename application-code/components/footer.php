@@ -1,6 +1,6 @@
 
 <!-- footer area start -->
-<footer class="tp-footer-3-area p-relative">
+<footer class="tp-footer-3-area p-relative" style="margin-top:0.2px;">
    <div class="tp-footer-bg" data-background="assets/img/footer/footer-bg.jpg"></div>
    <div class="container">
       <div class="tp-footer-3-main-area">
@@ -12,7 +12,7 @@
                   </div>
                   <div class="tp-footer-widget-content">
                      <div class="tp-footer-info">
-                        <p class="p">Cloud Pioneers Since 2008: Your Source for Innovation. Elevate your digital experience with Technix. 
+                        <p class="p">Cloud Innovators Since 2008: Ignite Your Digital Journey with Technix. Elevate your skills with our Cloud Programs 
                            <br>Welcome to a future of limitless possibilities</p>
                         <div class="tp-footer-main-location">
                            <a

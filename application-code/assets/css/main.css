@@ -6218,6 +6218,7 @@ div.demo img {
   margin-bottom: 15px;
 }
 .tp-about-item-content p {
+  width: 320px;
   font-weight: 400;
   font-size: 16px;
   line-height: 30px;
@@ -13281,3 +13282,10 @@ div.demo img {
 }
 
 /*# sourceMappingURL=main.css.map */
+.course-price-details{
+  display: flex;
+  justify-content: space-between;
+}
+.blue-text{
+  color: #000D44;
+}

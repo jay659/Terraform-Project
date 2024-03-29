@@ -115,7 +115,7 @@
                <div class="mobile-menu fix d-lg-none"></div>
                <div class="tp-mobile-menu-pos"></div>
                <div class="offcanvas__popup">
-                  <p>Empowering Cloud Innovation Since 2008. Welcome to a future where your digital aspirations take flight</p>
+                  <p>Empowering Cloud Innovation Since 2008. Step into a future where your digital aspirations soar.</p>
                   <div class="offcanvas__popup-gallery">
                      <h4 class="offcanvas__title">Gallery</h4>
                      <a class="popup-image" href="assets/img/portfolio/img-1.jpg">
@@ -206,10 +206,10 @@
                                        <a href="index.php">Home</a>
                                        
                                     </li><li><a href="about-us.php">Company</a></li>
-                                    <li class="has-dropdown"><a href="service.php">Services</a>
+                                    <li class="has-dropdown"><a href="service.php">Courses</a>
                                     <ul class="submenu">
-                                       <li><a href="service.php">Service</a></li>
-                                       <li><a href="service-details.php">Service Details</a></li>
+                                       <li><a href="service.php">Courses</a></li>
+                                       <li><a href="service-details.php">Courses Details</a></li>
                                     </ul>
                                     </li>
                                     <li><a href="contact.php" title="contact">Contact</a></li>
