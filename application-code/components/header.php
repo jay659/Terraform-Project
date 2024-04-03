@@ -3,7 +3,7 @@
    <head>
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
-      <title>Technix</title>
+      <title>Cloud Learn Hub</title>
       <meta name="description" content="A Cloud Tech Company">
       <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -59,7 +59,7 @@
                      <div class="search__top d-flex justify-content-between align-items-center">
                         <div class="search__logo">
                            <a href="index.php">
-                              <img src="assets/img/logo/footer-logo.png" alt="logo">
+                              <img src="assets/img/logo/footer-log1.png" alt="logo">
                            </a>
                         </div>
                         <div class="search__close">
@@ -108,7 +108,7 @@
                <div class="offcanvas__top mb-50 d-flex justify-content-between align-items-center">
                   <div class="offcanvas__logo logo">
                      <a href="index.php">
-                        <img src="assets/img/logo/logo.png" alt="logo">
+                        <img src="assets/img/logo/footer-log1.png" alt="logo">
                      </a>
                   </div>
                </div>
@@ -192,7 +192,7 @@
                            </div>
                            <div class="tp-header-logo">
                               <a href="index.php">
-                                 <img src="assets/img/logo/logo.png" alt="">
+                                 <img src="assets/img/logo/footer-log1.png" alt="">
                               </a>
                            </div>
                         </div>
